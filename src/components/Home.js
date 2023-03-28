@@ -47,7 +47,6 @@ export default function Home(props) {
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis deleniti quasi neque? Saepe necessitatibus distinctio quod mollitia unde. Nam voluptatibus sed molestias itaque consectetur beatae repellendus similique, fuga atque rem.
         </p>
         <button> Start Now </button>
-
       </div>
       <div className="card">
          <h2>Mobile Devlopment Course</h2>
